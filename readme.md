@@ -25,3 +25,6 @@ This particular project is a terminal-based to-do list built using [Bubble Tea](
 
 ```bash
 go run main.go
+```
+
+![Task Manager Demo](assets/demo.gif)
