@@ -1,0 +1,42 @@
+[
+ {
+  "ID": 1,
+  "Title": "Reflect on weekly goals",
+  "IsDone": true
+ },
+ {
+  "ID": 2,
+  "Title": "Write journal entry about today",
+  "IsDone": false
+ },
+ {
+  "ID": 3,
+  "Title": "Schedule 30 minutes of quiet reading",
+  "IsDone": false
+ },
+ {
+  "ID": 4,
+  "Title": "Organize workspace for better focus",
+  "IsDone": true
+ },
+ {
+  "ID": 5,
+  "Title": "Call a family member just to chat",
+  "IsDone": true
+ },
+ {
+  "ID": 13,
+  "Title": "Write a thank-you note to someone who helped you",
+  "IsDone": true
+ },
+ {
+  "ID": 14,
+  "Title": "List 3 things you're grateful for today",
+  "IsDone": true
+ },
+ {
+  "ID": 15,
+  "Title": "Say hello to go",
+  "IsDone": false
+ }
+]
